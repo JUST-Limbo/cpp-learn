@@ -1,0 +1,9 @@
+﻿  通讯录管理系统.cpp
+G:\develop\ex\cpp-learn\learn\通讯录管理\通讯录管理\通讯录管理系统.cpp(22,28): error C2143: 语法错误: 缺少“]”(在“;”的前面)
+G:\develop\ex\cpp-learn\learn\通讯录管理\通讯录管理\通讯录管理系统.cpp(22,31): error C2059: 语法错误:“]”
+G:\develop\ex\cpp-learn\learn\通讯录管理\通讯录管理\通讯录管理系统.cpp(22,32): error C2238: 意外的标记位于“;”之前
+G:\develop\ex\cpp-learn\learn\通讯录管理\通讯录管理\通讯录管理系统.cpp(29,18): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+G:\develop\ex\cpp-learn\learn\通讯录管理\通讯录管理\通讯录管理系统.cpp(29,21): error C2429: 语言功能 "if/switch 中的 init-statement" 需要编译器标志 "/std:c++17"
+G:\develop\ex\cpp-learn\learn\通讯录管理\通讯录管理\通讯录管理系统.cpp(29,24): error C2059: 语法错误:“)”
+G:\develop\ex\cpp-learn\learn\通讯录管理\通讯录管理\通讯录管理系统.cpp(29,26): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+G:\develop\ex\cpp-learn\learn\通讯录管理\通讯录管理\通讯录管理系统.cpp(33,2): error C2181: 没有匹配 if 的非法 else
