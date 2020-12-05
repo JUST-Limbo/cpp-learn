@@ -243,6 +243,7 @@ int main() {
 			modifyPerson(&abs);
 			break;
 		case 6:	// 清空联系人
+			cleanPerson(&abs);
 			break;
 		case 0:	// 退出通讯录
 			cout << "欢迎下次使用" << endl;
